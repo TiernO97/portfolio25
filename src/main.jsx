@@ -7,7 +7,7 @@ import store from "./store";
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename='/portfolio25/'>
       <Provider store={store}>
         <App />
       </Provider>
