@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { NavLink } from "react-router-dom";
 import { connect } from "react-redux";
 
-import CV from "../../assets/files/CV - Cian Tiernan.pdf";
+import CV from "../../assets/files/Cian Tiernan - CV.pdf";
 
 import "../../styles/components/Navbar/Navbar.scss";
 
